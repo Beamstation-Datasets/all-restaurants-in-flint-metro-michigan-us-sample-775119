@@ -1,6 +1,6 @@
 # All Restaurants in Flint (Metro), Michigan, US
 
-> Free BeamStation sample export with 60 rows and masked direct-contact fields.
+> Free BeamStation sample export with 47 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `775119` |
 | Location | Flint, MI |
 | Category | Restaurants |
-| Full dataset size | 601 records |
-| Free sample size | 60 records (9.98%) |
-| Last export | 2026-04-14T15:23:47.348533+00:00 |
+| Full dataset size | 479 records |
+| Free sample size | 47 records (9.81%) |
+| Last export | 2026-04-21T16:40:06.038604+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-flint-metro-michigan-us-sample-775119/releases/download/sample-latest/beamstation_775119_restaurants-us-flintmi_SAMPLE_DIST.csv) |
 
 ## What is in this sample
