@@ -1,12 +1,12 @@
 {
-  "export_job_id": "d8f738e7-1fb3-4eb9-991a-da8a808303b1",
+  "export_job_id": "af6c8575-7050-433b-8176-24922f18465b",
   "id_short": 775119,
-  "published_at": "2026-04-18T07:04:31Z",
+  "published_at": "2026-04-21T19:48:46Z",
   "repo_name": "all-restaurants-in-flint-metro-michigan-us-sample-775119",
   "sample_asset_name": "beamstation_775119_restaurants-us-flintmi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/775119/beamstation_775119_restaurants-us-flintmi_SAMPLE_DIST.csv",
-  "sample_records": 60,
-  "sample_sha256": "3b3998d0d2ec043b3b11e81ee31d8333704adb9fbbb50e314f9f8ca2ea08770d",
-  "sample_size_bytes": 236050,
-  "total_records": 601
+  "sample_records": 47,
+  "sample_sha256": "c0211b6e6cf16414880cdfe2794a3fb15945e7a0e7553d9839d51d8854f7b42d",
+  "sample_size_bytes": 174171,
+  "total_records": 479
 }
